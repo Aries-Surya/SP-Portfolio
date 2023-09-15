@@ -46,4 +46,4 @@ If you wish to replicate this portfolio for yourself, you can duplicate this rep
 URL: https://aries-surya.github.io/SP-Portfolio/
 ## Screenshots
 
-![Portfolio Screenshot](https://ibb.co/tC5Tv3w)
+![Portfolio Screenshot](https://i.ibb.co/s3rdNtp/SP-Portfolio-IMG.png)
