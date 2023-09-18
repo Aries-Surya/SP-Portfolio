@@ -14,13 +14,13 @@ import { AboutComponent } from './about/about.component';
 import { ResumeComponent } from './resume/resume.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { ServicesComponent } from './services/services.component';
-import { ContactComponent } from './contact/contact.component';
 import { LoginPageComponent } from './login-page/login-page.component';
 import { SignInComponent } from './sign-in/sign-in.component';
 import { AuthService } from './shared/services/auth.service';
 import { FormsModule, ReactiveFormsModule }   from '@angular/forms';
 import { FooterComponent } from './footer/footer.component';
 import { NavComponent } from './nav/nav.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -30,10 +30,10 @@ import { NavComponent } from './nav/nav.component';
     ResumeComponent,
     PortfolioComponent,
     ServicesComponent,
-    ContactComponent,
     SignInComponent,
     FooterComponent,
-    NavComponent
+    NavComponent,
+    ContactComponent,
   ],
   imports: [
     BrowserModule,
